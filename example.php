@@ -12,3 +12,7 @@ function minus(int $a, int $b) : int
 function divide(int $a, int $b) : int {
     return $a / $b;
 }
+
+function multiplizieren(int $a, int $b){
+    return $a * $b;
+}
