@@ -8,3 +8,7 @@ function minus(int $a, int $b) : int
 {
     return $a - $b;
 }
+
+function divide(int $a, int $b) : int {
+    return $a / $b;
+}
